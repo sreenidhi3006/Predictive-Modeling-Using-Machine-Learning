@@ -107,6 +107,6 @@ The project generates:
 
 ## 👨‍💻 Author
 
-**Sreenidhi K**
+**SreenidhiKannan**
 
 Information Technology Student
